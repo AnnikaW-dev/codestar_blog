@@ -1,1 +1,1 @@
-web: ginicorn codestar-blog-awa.wsgi
+web: gunicorn codestar-blog-awa.wsgi
